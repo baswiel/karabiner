@@ -68,6 +68,7 @@ const rules: KarabinerRules[] = [
       h: open(
         "raycast://extensions/raycast/clipboard-history/clipboard-history"
       ),
+      k: open("raycast://extensions/rolandleth/kill-process/index"),
     },
   }),
 ];

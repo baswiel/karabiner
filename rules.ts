@@ -57,8 +57,9 @@ const rules: KarabinerRules[] = [
       z: app("Zed"),
       t: app("Warp"),
       f: app("Finder"),
-      p: app("Spotify"),
+      m: app("Spotify"),
       w: app("WhatsApp"),
+      p: app("Proton Pass"),
     },
 
     // r = "Raycast"
